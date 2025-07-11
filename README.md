@@ -1,1 +1,2 @@
 # Car-Details-Management
+Developed a full-stack car management platform where users can log in securely using JWT and create, update, or delete car listings. Each listing includes details like name, description, tags, and images, with options to make it public or private. Added a global search feature and integrated Uploadcare for image uploads. Built fast and well-documented Django REST APIs, and designed a clean, responsive React frontend 
